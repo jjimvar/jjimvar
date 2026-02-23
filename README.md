@@ -1,11 +1,11 @@
 # Jesús Jiménez Vargas
 **Data Analyst | Quantitative Modeling | Financial & Real Estate Analytics**
 
-🔗 [LinkedIn](https://linkedin.com/in/jesus-jimenez-vargas)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-jimenez-vargas/)
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 Data Analyst with a background in Economic Analysis and hands-on experience applying quantitative methods in real business environments.
 
@@ -20,7 +20,7 @@ My work includes:
 
 ---
 
-## Core Areas
+## 🎯 Core Areas
 
 - Applied Machine Learning
 - Quantitative & Statistical Modeling
@@ -30,7 +30,7 @@ My work includes:
 
 ---
 
-## Technical Stack
+## 🛠️ Technical Stack
 
 **Languages & Libraries**  
 Python (Pandas, NumPy, Scikit-learn, TensorFlow/Keras), SQL
@@ -43,7 +43,7 @@ Git, GitHub
 
 ---
 
-## Selected Projects
+## 🚀 Selected Projects
 
 ### Financial Time Series Forecasting — Multi-ETF Prediction
 - Short-term ETF price prediction using LSTM models  
@@ -61,19 +61,3 @@ Git, GitHub
 ---
 
 *Building analytical solutions that connect quantitative rigor with business impact.*
-
-
-<!--
-**jjimvar/jjimvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
