@@ -45,16 +45,16 @@ My work includes:
 
 ## 🚀 Selected Projects
 
-### Financial Time Series Forecasting — Multi-ETF Prediction
+### 📈 Financial Time Series Forecasting — Multi-ETF Prediction
 - Short-term ETF price prediction using LSTM models  
 - Integration of macroeconomic indicators (FRED API)  
 - Rolling window validation and performance evaluation  
 
-### End-to-End Machine Learning Pipeline
+### ⚙️ End-to-End Machine Learning Pipeline
 - Structured ML workflow: data cleaning → feature engineering → modeling → evaluation  
 - Model comparison and performance analysis  
 
-### Data Pipeline & Web Scraping Project
+### 🕸️ Data Pipeline & Web Scraping Project
 - Automated data extraction and SQL storage  
 - Data transformation and visualization  
 
