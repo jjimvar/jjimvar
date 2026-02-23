@@ -33,13 +33,13 @@ My work includes:
 ## 🛠️ Technical Stack
 
 **Languages & Libraries**  
-Python (Pandas, NumPy, Scikit-learn, TensorFlow/Keras), SQL
+🐍 Python (Pandas, NumPy, Scikit-learn, TensorFlow/Keras), 🗄️ SQL
 
 **Analytics & Visualization**  
-Power BI, Excel (Advanced), Matplotlib
+📊 Power BI, 📉 Excel (Advanced), 🎨 Matplotlib
 
 **Tools**  
-Git, GitHub
+💻 Git, 🐙 GitHub
 
 ---
 
